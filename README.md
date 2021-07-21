@@ -9,9 +9,7 @@
  - Build : Maven 3.6.1
  - Database : MariaDB
  - Persistence Framework : Spring Data JPA
- - Test Framework : Junit5
- - Was : Spring Boot Embedded Tomcat
-  
+ - Test Framework : Junit5  
   
 ## 뿌리기 API
 ### Request Example
